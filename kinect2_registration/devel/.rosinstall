@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wigir/dev/thirdparty/iai_kinect2_ws/src/iai_kinect2/kinect2_registration/devel/setup.sh
